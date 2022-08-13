@@ -6,7 +6,6 @@ class Solution:
         self.previous_previous_num = -2
     
     def get_perfect_square(self, num):
-        print(num, self.product)
         if int(num) ** 2 == self.product:
             self.is_perfect_square = True
             return
