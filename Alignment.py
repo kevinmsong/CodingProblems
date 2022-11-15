@@ -1,7 +1,7 @@
 """
 Kevin Song
 BMI 214
-Project 1: Alignment Algorithms
+Alignment Algorithms
 Start Date: 9/30/17
 Submission Date: 10/12/17
 
